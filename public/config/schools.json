@@ -11,6 +11,19 @@
             ]
         },
         {
+            "name": "南京大学",
+            "institute": "南大AI LAMDA组",
+            "description": "LAMDA招收2026年秋季入学研究生说明",
+            "deadline": "2025-06-01T00:00:00+08:00",
+            "website": "https://www.lamda.nju.edu.cn/recruit-2026/recruit-2026.html",
+            "tags": [
+                "C9",
+                "985",
+                "211",
+                "华五"
+            ]
+        },
+        {
             "name": "香港中文大学（深圳）",
             "institute": "数据科学学院",
             "description": "第一轮2025年3月1日-2025年4月30日，第二轮2025年5月1日-2025年6月20日",
